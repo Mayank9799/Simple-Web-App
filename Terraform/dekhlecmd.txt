@@ -1,0 +1,1000 @@
+ 1010  minikube start
+ 1011  helm install my-wordpress-website-release bitnami-repo/wordpress
+ 1012  kubectl pods
+ 1013  kubectl pod
+ 1014  kubectl get pods
+ 1015  kubectl get all
+ 1016  helm list
+ 1017  kubectl get all
+ 1018  ls
+ 1019  ls -al
+ 1020  which helm
+ 1021  /usr/local/bin/helm
+ 1022  cd /usr/local/bin/helm
+ 1023  cd /usr/local/bin
+ 1024  ls
+ 1025  cat helm
+ 1026  cd ..
+ 1027  cd proj
+ 1028  cd helm
+ 1029  cd Helm
+ 1030  ls
+ 1031  cd h
+ 1032  cd home/
+ 1033  cd mayankdevops/
+ 1034  ls
+ 1035  cd Helm/
+ 1036  ls
+ 1037  cd hello\ helm/
+ 1038  ls
+ 1039  pwd
+ 1040  kubectl get all
+ 1041  minikube ip
+ 1042  kubectl get all
+ 1043  kubectl get svc
+ 1044  helm list
+ 1045  helm uninstall my-wordpress-website-release
+ 1046  kubectl get all
+ 1047  helm repo - help
+ 1048  helm repo - helphelm repo index
+ 1049  helm repo index
+ 1050  helm repo index 1
+ 1051  helm repo list
+ 1052  helm repo update
+ 1053  ls
+ 1054  helm pull bitnami-repo/wordpress
+ 1055  ls
+ 1056  helm pull --untar bitnami-repo/wordpress
+ 1057  ls
+ 1058  cd wordpress/
+ 1059  ls
+ 1060  tree
+ 1061  ls
+ 1062  cd ..
+ 1063  ls
+ 1064  ls wordpress
+ 1065  ls wordpress -o
+ 1066  cd ..
+ 1067  ls cd hello\ helm/
+ 1068  ls
+ 1069  cd hello\ helm/
+ 1070  ls
+ 1071  cd wordpress/
+ 1072  ls
+ 1073  cd charts/
+ 1074  ls
+ 1075  cd ..
+ 1076  ls
+ 1077  cat values.yaml 
+ 1078  helmhepl
+ 1079  helm -help
+ 1080  helm --help
+ 1081  kubectl cluster info
+ 1082  kubectl cluster-info
+ 1083  pwd
+ 1084  ls
+ 1085  helm pull bitnami-repo/wordpress
+ 1086  ls
+ 1087  docker images
+ 1088  minikube start
+ 1089  helm 
+ 1090  helm repo list
+ 1091  helm template GST-APP
+ 1092  CD ..
+ 1093  cd ..
+ 1094  helm template GST-APP
+ 1095  helm template GST-APP --debug
+ 1096  helm template GST-APP
+ 1097  helm create demo
+ 1098  helm --help
+ 1099  helm template demo
+ 1100  helm lint demo
+ 1101  helm install k8s2helm demo
+ 1102  helm install k8stohelm demo
+ 1103  minikube status
+ 1104  minikube start
+ 1105  helm install k8s2helm demo
+ 1106  kubectl get all
+ 1107  kubectl delete deployment --all
+ 1108  kubectl get all
+ 1109  helm install k8s2helm demo
+ 1110  helm repo list
+ 1111  kubectl get all
+ 1112  kubectl delete service k8s2helm-demo
+ 1113  kubectl get all
+ 1114  helm install k8s2helm demo
+ 1115  kubectl get all
+ 1116  minikube status
+ 1117  helm status 
+ 1118  helm uninstall k8s2helm demo 
+ 1119  helm install k8s2helm demo 
+ 1120  kubectl get all
+ 1121  minikube ip 
+ 1122  helm status k8s2helm
+ 1123  kubectl uninstall k8s2helm demo 
+ 1124  helm  uninstall k8s2helm demo 
+ 1125  helm install k8s2helm demo
+ 1126  minikube status 
+ 1127  helm  uninstall k8s2helm demo 
+ 1128  helm install k8s2helm demo
+ 1129  helm ls
+ 1130  helm delete k8s2helm
+ 1131  helm ls -a
+ 1132  kubectl get all
+ 1133  minikube status 
+ 1134  helm repo list
+ 1135  helm install k8s2helm demo
+ 1136  cd ..
+ 1137  helm install k8s2helm demo
+ 1138  l
+ 1139  cd ..
+ 1140  ls
+ 1141  cd Helm/
+ 1142  ls
+ 1143  cd demo/
+ 1144  tree
+ 1145  helm install k8s2helm demo
+ 1146  cd ..
+ 1147  tree
+ 1148  cd demo/
+ 1149  ls
+ 1150  cd demo/
+ 1151  ls
+ 1152  helm install k8s2helm demo
+ 1153  cd ..
+ 1154  helm install k8s2helm demo
+ 1155  helm list 
+ 1156  helm ls
+ 1157  helm status k8s2helm
+ 1158  helm --help
+ 1159  helm pull k8s2helm
+ 1160  helm pull demo
+ 1161  cd ..
+ 1162  ls
+ 1163  cd demo/
+ 1164  ls
+ 1165  cd demo/
+ 1166  ls
+ 1167  helm pull k8s2helm
+ 1168  helm pull demo
+ 1169  helm --help
+ 1170  helm template k8s2helm
+ 1171  helm chart update
+ 1172  helm chart
+ 1173  helm chart --help
+ 1174  helm --help
+ 1175  helm pull demo
+ 1176  helm pull k8s2helm
+ 1177  ls
+ 1178  cd ..
+ 1179  ls
+ 1180  cd ..
+ 1181  ls
+ 1182  helm template demo
+ 1183  ls
+ 1184  cd demo/
+ 1185  helm template demo
+ 1186  helm template demo/
+ 1187  helm template k8s
+ 1188  cd ..
+ 1189  helm template k8s
+ 1190  helm template demo/
+ 1191  ls
+ 1192  cd demo/
+ 1193  ls
+ 1194  helm template demo/
+ 1195  cd demo/
+ 1196  ls
+ 1197  helm template demo/
+ 1198  minikube start 
+ 1199  helm repo add prometheus-community https://prometheus-community.github.io/helm-charts
+ 1200  helm repo add stable https://kubernetes-charts.storage.googleapis.com/
+ 1201  helm repo update
+ 1202  helm install prometheus prometheus-community/kube-prometheus-stack
+ 1203  helm install prometheus prometheus-community/kube-prometheus-stack --version "9.4.1"
+ 1204  helm ls
+ 1205  kubectl get pods
+ 1206  kubectl get pod
+ 1207  kubectl get all
+ 1208  minikube status 
+ 1209  minikube start
+ 1210  l
+ 1211  cd ..
+ 1212  helm template ./hello\ helm/wordpress/ .
+ 1213  helm template ./hello\ helm/wordpress/ ./hello\ helm/ >devmac.yaml
+ 1214  helm template ./hello\ helm/wordpress/ ./hello\ helm/ > devmac.yaml
+ 1215  helm template ./hello\ helm/wordpress/ ./hello\ helm/wordpress > devmac.yaml
+ 1216  helm template release1 ./hello\ helm/wordpress/ ./hello\ helm/wordpress > devmac.yaml
+ 1217  helm template release1 -f ./hello\ helm/wordpress/ ./hello\ helm/wordpress > devmac.yaml
+ 1218  helm template release1 -f ./hello\ helm/wordpress/values.yaml ./hello\ helm/wordpress > devmac.yaml
+ 1219  helm template release1 -f ./hello\ helm/wordpress/valuesmac.yaml ./hello\ helm/wordpress > devmac.yaml
+ 1220  helm template release1 -f ./hello\ helm/wordpress/values.yaml ./hello\ helm/wordpress > devmac.yaml
+ 1221  tree
+ 1222  ls
+ 1223  helm template release1 -f ./GST-APP/values.yaml 
+ 1224  helm template  -f ./GST-APP/values.yaml 
+ 1225  helm template  rel ./GST-APP/values.yaml 
+ 1226  helm template  rel -f ./GST-APP/values.yaml 
+ 1227  helm template rel1 -f ./GST-APP ./GST-APP/values.yaml 
+ 1228  helm template rel1  ./GST-APP -f ./GST-APP/values.yaml 
+ 1229  helm template rel1  ./GST-APP  ./GST-APP/values.yaml 
+ 1230  helm template ./GST-APP  ./GST-APP/values.yaml 
+ 1231  ls
+ 1232  rm GST-APP
+ 1233  rmdir  GST-APP
+ 1234  cat devmac.yaml 
+ 1235  ls
+ 1236  helm template demo
+ 1237  cd ..
+ 1238  helm template demo
+ 1239  cd demo/
+ 1240  ls
+ 1241  cd ..
+ 1242  ls
+ 1243  helm template ./demo/templates/deployment.yaml 
+ 1244  $ helm install <release-name> <registry-name>/<chart-name> --values ./values.yaml  -n monitoring
+ 1245  $ helm install gst1 ./demo/templates/Chart.yaml --values ./values.yaml  -n monitoring
+ 1246  $ helm install gst1 ./demo/templates/Chart.yaml --values ./values.yaml
+ 1247  $ helm install gst1 ./demo/templates/Chart.yaml  ./demo/values.yaml
+ 1248  $ helm install gst1 -f ./demo/templates/Chart.yaml  ./demo/values.yaml 
+ 1249  ls
+ 1250  cd ..
+ 1251  ls
+ 1252  tree
+ 1253  ls
+ 1254  man bin
+ 1255  man cdrom
+ 1256  cd dev/
+ 1257  ls
+ 1258  cd ..
+ 1259  ls
+ 1260  cd boot/
+ 1261  ls
+ 1262  cd ..
+ 1263  ls
+ 1264  cd srv
+ 1265  ls
+ 1266  ls -a
+ 1267  ls0f
+ 1268  cd ..
+ 1269  cd etc
+ 1270  ls
+ 1271  cd ..
+ 1272  ls
+ 1273  ls | tree
+ 1274  ls
+ 1275  cd mnt
+ 1276  ls
+ 1277  ls -a
+ 1278  cd ..
+ 1279  cd tmp
+ 1280  ls
+ 1281  cd ..
+ 1282  cd usr
+ 1283  ls
+ 1284  cd ..
+ 1285  cd var/
+ 1286  ls
+ 1287  tree
+ 1288  ls
+ 1289  cd backups/
+ 1290  ls
+ 1291  cd ..
+ 1292  cd cache/
+ 1293  ls
+ 1294  pwd
+ 1295  git clone https://github.com/Mayank9799/GST-Billing-System-Project-.git
+ 1296  ls
+ 1297  cd Android/
+ 1298  ls
+ 1299  cd data
+ 1300  ls
+ 1301  cd com.google.android.apps.nbu.paisa.user
+ 1302  ls
+ 1303  cd cache/
+ 1304  ls
+ 1305  cd ..
+ 1306  ls
+ 1307  cd files/
+ 1308  cdcd ..
+ 1309  cd ..
+ 1310  ls
+ 1311  cd com.whatsapp
+ 1312  ls
+ 1313  ls -a
+ 1314  cd ..
+ 1315  ls
+ 1316  cd ..
+ 1317  ls
+ 1318  cd mtp\:host\=SAMSUNG_SAMSUNG_Android_RZ8N82TEKCA/
+ 1319  ls
+ 1320  tree
+ 1321  ls
+ 1322  cd ..
+ 1323  ls
+ 1324  helm repo add bitnami https://charts.bitnami.com/bitnami
+ 1325  helm install my-release bitnami/wordpress
+ 1326  minikube start
+ 1327  pwd
+ 1328  ls
+ 1329  tree
+ 1330  helm repo add shubham-wordpress https://shubhambhardwaj007.github.io/Kubernetes-helm-chart/
+ 1331  helm install my-wordpress shubham-wordpress/wordpress --version 0.1.0
+ 1332  minikube start
+ 1333  helm install my-wordpress shubham-wordpress/wordpress --version 0.1.0
+ 1334  kubectl get all
+ 1335  helm ls
+ 1336  helm list
+ 1337  kubectl get all
+ 1338  minikube status 
+ 1339  minikube start 
+ 1340  minikube stop
+ 1341  minikube start 
+ 1342  minikube status 
+ 1343  minikube stop 
+ 1344  minikube status 
+ 1345  minikube start
+ 1346  ls
+ 1347  cd GST-Billing-System-Project-/
+ 1348  ls
+ 1349  cat deploy.sh 
+ 1350  ls
+ 1351  cd ..
+ 1352  minikube status 
+ 1353  ls
+ 1354  cd Helm/
+ 1355  ls
+ 1356  mkdir nginx
+ 1357  cd nginx/
+ 1358  ls
+ 1359  helm install nginx-release bitnami/nginx
+ 1360  minikube start
+ 1361  minikube status 
+ 1362  helm install nginx-release bitnami/nginx --version 7.1.0 
+ 1363  helm install nginx-release bitnami/nginx --version 7.1.8
+ 1364  $ helm repo add my-repo https://charts.bitnami.com/bitnami
+ 1365  cd ..
+ 1366  ls
+ 1367  cat get_helm.sh head -10
+ 1368  cat get_helm.sh ls
+ 1369  ls
+ 1370  cat mac.txt head - 10
+ 1371  helm install nginx-release bitnami/nginx --version 7.1.8
+ 1372  helm install nginx-release bitnami/nginx
+ 1373  which helm 
+ 1374  cat <<EOF
+ 1375  -------------------
+ 1376  this is line 3
+ 1377  -----------------
+ 1378  EOF
+ 1379  VAR= "/var/www/html"
+ 1380  cat file.sh >>VAR= "/var/www/html"
+ 1381  cat < in.txt > out.txt
+ 1382  ls
+ 1383  cat >notes -
+ 1384  git reset help
+ 1385  tfenv ls
+ 1386  terraform -v
+ 1387  tfenv list
+ 1388  terrafom env list
+ 1389  terraform env list
+ 1390  terraform workspace list
+ 1391  tfwk
+ 1392  man terraform workspace
+ 1393  man terraform workspace list
+ 1394  terraform workspace list --help
+ 1395  ssh cloud_user@44.201.51.66
+ 1396  ssh -i "id_rsa" ubuntu@ec2-18-212-225-44.compute-1.amazonaws.com
+ 1397  terraform init
+ 1398  terraform validate
+ 1399  terraform plan
+ 1400  terraform plan -f main.tf
+ 1401  terraform plan 
+ 1402  cd ..
+ 1403  ls
+ 1404  cd Terrform
+ 1405  cd ls
+ 1406  ls
+ 1407  terraform plan
+ 1408  terraform apply
+ 1409  ssh -i "id_rsa" ubuntu@ec2-18-212-225-44.compute-1.amazonaws.com
+ 1410  terraform destroy
+ 1411  ssh -i "mpkp.pem" ubuntu@ec2-54-196-152-142.compute-1.amazonaws.com
+ 1412  cd ..
+ 1413  ls
+ 1414  cd mayankdevops/
+ 1415  ls
+ 1416  cd Downloads/
+ 1417  ls
+ 1418  ssh -i "mpkp.pem" ubuntu@ec2-54-196-152-142.compute-1.amazonaws.com
+ 1419  sudo ssh -i "mpkp.pem" ubuntu@ec2-54-196-152-142.compute-1.amazonaws.com
+ 1420  ls
+ 1421  cd Downloads/
+ 1422  ls
+ 1423  ssh -i "mpkp.pem" ubuntu@ec2-54-196-152-142
+ 1424  ssh -i "mpkp.pem" ubuntu@54.196.152.142
+ 1425  sudo ssh -i "mpkp.pem" ubuntu@54.196.152.142
+ 1426  vim jenkins_installation.sh
+ 1427  nano jenkins.sh
+ 1428  sudo 
+ 1429  nano jenkins.sh
+ 1430  sudo ./jenkins.sh
+ 1431  chmod +x jenkins.sh 
+ 1432  ./jenkins.sh
+ 1433  cat jenkins.sh 
+ 1434  vim jenkins.sh 
+ 1435  nano jenkins.sh 
+ 1436  history
+ 1437  terraform init
+ 1438  terraform plan
+ 1439  cd ..
+ 1440  cd mayankdevops/
+ 1441  ls
+ 1442  cd GST-Billing-System-Project-/
+ 1443  ls
+ 1444  cd Terraform/
+ 1445  ls
+ 1446  terraform init
+ 1447  terraform plan
+ 1448  terraform init
+ 1449  terraform validate
+ 1450  terraform plan
+ 1451  terraform init
+ 1452  terraform validate
+ 1453  terraform plan
+ 1454  cd Downloads/
+ 1455  ls
+ 1456  find "*.pem"
+ 1457  find | "*.pem"
+ 1458  ls | "*.pem"
+ 1459  ls
+ 1460  pwd
+ 1461  ls mpkp.pem 
+ 1462  ll mpkp.pem 
+ 1463  chmod +rx mpkp.pem 
+ 1464  ll mpkp.pem 
+ 1465  chmod +rwx mpkp.pem 
+ 1466  ll mpkp.pem 
+ 1467  mkdir Jenkins by TWS
+ 1468  cd Jenkins/by/TWS
+ 1469  ls
+ 1470  mkdir TWS
+ 1471  mkdir TWS2
+ 1472  ls
+ 1473  cd TWS2/
+ 1474  ls
+ 1475  ssh -i "mpkp2.pem" ubuntu@ec2-54-144-213-8.compute-1.amazonaws.com
+ 1476  ssh -i "/Downloads/mpkp2.pem" ubuntu@ec2-54-144-213-8.compute-1.amazonaws.com
+ 1477  cd Downloads
+ 1478  cd .~/Downloads
+ 1479  cd ~/Downloads
+ 1480  ls
+ 1481  ssh -i "~/Downloads/mpkp2.pem" ubuntu@ec2-54-144-213-8.compute-1.amazonaws.com
+ 1482  chmod +x mpkp2.pem 
+ 1483  ssh -i "~/Downloads/mpkp2.pem" ubuntu@ec2-54-144-213-8.compute-1.amazonaws.com
+ 1484  sudo ssh -i "~/Downloads/mpkp2.pem" ubuntu@ec2-54-144-213-8.compute-1.amazonaws.com
+ 1485  ll mpkp2.pem 
+ 1486  scp -i /path/to/your/key.pem /path/to/local/file user@ec2-instance-ip:/path/to/remote/directory/
+ 1487  scp -i ~/Downloads/mpkp2.pem /path/to/local/file user@ec2-instance-ip:/path/to/remote/directory/
+ 1488  ls
+ 1489  pwd
+ 1490  scp -i ~/Downloads/mpkp2.pem ~/home/mayankdevops/jenkins.sh user@ec2-instance-ip:54.144.213.8
+ 1491  scp -i ~/Downloads/mpkp2.pem ~/home/mayankdevops/jenkins.sh ubuntu@ip-172-31-82-44
+ 1492  scp -i ~/Downloads/mpkp2.pem jenkins.sh ubuntu@ip-172-31-82-44
+ 1493  scp -i ~/Downloads/mpkp2.pem jenkins.sh ubuntu@ip-172-31-82-44/home/ubuntu
+ 1494  scp -i ~/Downloads/mpkp2.pem jenkins.sh ubuntu@ip-172-31-82-44:/home/ubuntu
+ 1495  scp -i ~/Downloads/mpkp2.pem jenkins.sh ubuntu@ip-172-31-82-44
+ 1496  scp -i /path/to/your/key.pem /path/to/local/file username@172.31.82.44:/path/to/remote/directory/
+ 1497  scp -i ~/Downloads/mpkp2.pem jenkins.sh ubuntu@ip-172-31-82-44:/home/ubuntu/Folder
+ 1498  sudo scp -i ~/Downloads/mpkp2.pem jenkins.sh ubuntu@ip-172-31-82-44:/home/ubuntu/Folder
+ 1499  sudo scp -i ~/Downloads/mpkp2.pem jenkins.sh ubuntu@ip-172.31.82.44:/home/ubuntu/Folder
+ 1500  sudo scp -i ~/Downloads/mpkp2.pem jenkins.sh ubuntu@172.31.82.44:/home/ubuntu/Folder
+ 1501  ping 172.31.82.44
+ 1502  scp -i ~/Downloads/mpkp2.pem jenkins.sh ubuntu@ip-172-31-82-44:/home/ubuntu/Folder
+ 1503  scp -i ~/Downloads/mpkp2.pem jenkins.sh ubuntu@ip-172.31.82.44:/home/ubuntu/Folder
+ 1504  scp -i ~/Downloads/mpkp2.pem jenkins.sh ubuntu@172.31.82.44:/home/ubuntu/Folder
+ 1505  ls
+ 1506  cat jenkins.sh 
+ 1507  nano jenkins.sh 
+ 1508  cat jenkins.sh 
+ 1509  nano jenkins.sh 
+ 1510  cat jenkins.sh 
+ 1511  deb https://pkg.jenkins.io/debian binary/
+ 1512  deb3 https://pkg.jenkins.io/debian binary/
+ 1513  sudo apt install quilt
+ 1514  deb https://pkg.jenkins.io/debian binary/
+ 1515  deb3 https://pkg.jenkins.io/debian binary/
+ 1516  wget -q -O - https://pkg.jenkins.io/debian/jenkins.io.key | sudo apt-key add -
+ 1517  deb https://pkg.jenkins.io/debian binary/sudo apt-get update
+ 1518  sudo apt-get update  
+ 1519  ssh -i ~/Downloads/mpkp5.pem ec2-34-207-122-209.compute-1.amazonaws.com
+ 1520  chmod +x ~/Downloads/mpkp5.pem 
+ 1521  ssh -i ~/Downloads/mpkp5.pem ec2-34-207-122-209.compute-1.amazonaws.com
+ 1522  sudo ssh -i ~/Downloads/mpkp5.pem ec2-34-207-122-209.compute-1.amazonaws.com
+ 1523  ssh -i ~/Downloads/mpkp5.pem ec2-34-207-122-209.compute-1.amazonaws.com
+ 1524  ssh -i ~/Downloads/mpkp5.pem ubuntu@ec2-34-207-122-209.compute-1.amazonaws.com
+ 1525  ssh -i ~/Downloads/mpkp5.pem ubuntu@34.207.122.209
+ 1526  chmod +x ~/Downloads/mpkp5.pem 
+ 1527  ssh -i ~/Downloads/mpkp5.pem ubuntu@34.207.122.209
+ 1528  ssh -i "mpkp5.pem" ubuntu@ec2-34-207-122-209.compute-1.amazonaws.com
+ 1529  cd ~/Downloads/
+ 1530  ssh -i "mpkp5.pem" ubuntu@ec2-34-207-122-209.compute-1.amazonaws.com
+ 1531  ls
+ 1532  cat jenkins.sh 
+ 1533  cat jenkins.sh 
+ 1534  mkdir NODE
+ 1535  cd NODE/
+ 1536  git clone https://github.com/Mayank9799/node-todo-cicd
+ 1537  ls
+ 1538  git remote add upstream <original_repository_url>
+ 1539  git remote add upstream https://github.com/LondheShubham153/node-todo-cicd
+ 1540  git fetch upstream
+ 1541  git merge upstream/master
+ 1542  git push origin master
+ 1543  git push master
+ 1544  git remote add upstream https://github.comhttps://github.com
+ 1545  git remote -v
+ 1546  git remote set-url origin https://github.com/newuser/newrepo.git
+ 1547  git remote set-url origin https://github.com/Mayank9799/node-todo-cicd.git
+ 1548  git remote set-url origin https://github.com/Mayank9799/node-todo-cicd
+ 1549  git remote add upstream https://github.com/Mayank9799/node-todo-cicd
+ 1550  git fetch upstream
+ 1551  git remote -v
+ 1552  git remote set-url origin https://github.com/Mayank9799/node-todo-cicd
+ 1553  git remote set-url master https://github.com/Mayank9799/node-todo-cicd
+ 1554  git remote --help
+ 1555  git remote remove origin https://github.com/LondheShubham153/node-todo-cicd
+ 1556  git remote remove upstream https://github.com/LondheShubham153/node-todo-cicd
+ 1557  cd ..
+ 1558  rm NODE/
+ 1559  rmdir NODE/
+ 1560  sudo rmdir NODE/
+ 1561  cd NODE/
+ 1562  ls
+ 1563  del node-todo-cicd/
+ 1564  cd ..
+ 1565  rm -rf NODE/
+ 1566  ls
+ 1567  mkdir Node
+ 1568  cd Node/
+ 1569  ls
+ 1570  git clone https://github.com/LondheShubham153/node-todo-cicd.git
+ 1571  git remote -v
+ 1572  git remote set-url <remote_name> <new_url>
+ 1573  git remote set-url Mayank9799 https://github.com/Mayank9799
+ 1574  clear
+ 1575  ssh -i "mac2.pem" ubuntu@ec2-3-86-86-107.compute-1.amazonaws.com
+ 1576  cd Downloads/
+ 1577  ssh -i "mac2.pem" ubuntu@ec2-3-86-86-107.compute-1.amazonaws.com
+ 1578  sudo chmod 400 mac2.pem 
+ 1579  ssh -i "mac2.pem" ubuntu@ec2-3-86-86-107.compute-1.amazonaws.com
+ 1580  ssh -i "mac2.pem" ubuntu@ec2-3-86-86-107.compute-1.amazonaws.com
+ 1581  cd Downloads/
+ 1582  ssh -i "mac2.pem" ubuntu@ec2-3-86-86-107.compute-1.amazonaws.com
+ 1583  cd ..
+ 1584  ls
+ 1585  cd Downloads/
+ 1586  ssh -i "mac2.pem" ubuntu@ec2-3-86-86-107.compute-1.amazonaws.com
+ 1587  ls
+ 1588  cd ..
+ 1589  ls
+ 1590  tree
+ 1591  ls
+ 1592  cat jenkins.sh 
+ 1593  ls
+ 1594  cat jenkins.sh 
+ 1595  nano jenkins.sh 
+ 1596  cat jenkins.sh 
+ 1597  git clone https://github.com/Mayank9799/CI-CD-Stuff-
+ 1598  ls
+ 1599  cd CI-CD-Stuff-/
+ 1600  ls
+ 1601  nano README.md 
+ 1602  mv ~/jenkins.sh .
+ 1603  ls
+ 1604  git add .
+ 1605  git commit -m "Initial Comment"
+ 1606  git push origin master
+ 1607  git push
+ 1608  git push origin master
+ 1609  git push origin main
+ 1610  git remote set-url origin https://<token>@github.com/<repository>.git
+ 1611  git remote set-url origin https://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@github.com/Mayank9799.git
+ 1612  git push origin main
+ 1613  git remote set-url origin https://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@github.com/Mayank9799/CI-CD-Stuff-.git
+ 1614  git push origin main
+ 1615  cd ..
+ 1616  too-app
+ 1617  mkdir todo-app
+ 1618  cd todo-app/
+ 1619  ls
+ 1620  git clone https://github.com/LondheShubham153/Todo-app
+ 1621  ls
+ 1622  cd Todo-app/
+ 1623  ls
+ 1624  cd ..
+ 1625  git add .
+ 1626  git remote set-url origin https://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@github.com:Mayank9799/Todo-app.git
+ 1627  git add .
+ 1628  git push origin main
+ 1629  git origin
+ 1630  cd ..
+ 1631  cd Downloads/
+ 1632  ssh -i "mac2.pem" ubuntu@ec2-34-207-122-209.compute-1.amazonaws.com
+ 1633  ls
+ 1634  cd Jenkins/
+ 1635  ls
+ 1636  cd ..
+ 1637  cd Jenkinsfile
+ 1638  ls
+ 1639  dig example.com
+ 1640  nmcli device wifi show-password
+ 1641  mkdir pypackages
+ 1642  ls
+ 1643  pip3 install requests -t /home/mayankdevops/pypackages
+ 1644  sudo apt install python3-pip
+ 1645  pip3 install requests -t /home/mayankdevops/pypackages
+ 1646  cd pypackages
+ 1647  ls
+ 1648  cd ..
+ 1649  zip -r pypackages.zip
+ 1650  cd pypackages/
+ 1651  ls
+ 1652  zip -r pypackages.zip
+ 1653  cd ..
+ 1654  zip -r pypackages.zip pypackages
+ 1655  ls
+ 1656  zip -r pypackages.zip pypackages
+ 1657  cd 
+ 1658  ls
+ 1659  cd pypackages/
+ 1660  pwd
+ 1661  cd pypackages/
+ 1662  cd pypackages
+ 1663  ls
+ 1664  docker run -it --name server1 piyushgargdev/networking-lab
+ 1665  df -h
+ 1666  df
+ 1667  clear
+ 1668  df
+ 1669  man df
+ 1670  clear
+ 1671  df -a
+ 1672  ls
+ 1673  git clone https://github.com/KevinDeNotariis/simple-web-app
+ 1674  ls
+ 1675  ll
+ 1676  ls
+ 1677  cd simple-web-app/
+ 1678  ls
+ 1679  ls -a
+ 1680  rmdir -force -recurse .\.git
+ 1681  rmdir -force -recurse ./.git
+ 1682  rmdir -force -recurse .git
+ 1683  ls
+ 1684  ls-a
+ 1685  ls -a
+ 1686  chmod -R a+w .git
+ 1687  rm -rf .git
+ 1688  ls
+ 1689  ls -a
+ 1690  cd ..
+ 1691  ls
+ 1692  code .
+ 1693  cls
+ 1694  ls
+ 1695  cd Poc\'s/
+ 1696  ls
+ 1697  code .
+ 1698  cd ..
+ 1699  rmdir Poc\'s/
+ 1700  rmdir -f Poc\'s/
+ 1701  rmdir -rf Poc\'s/
+ 1702  rm Poc\'s/
+ 1703  rmdir Poc\'s/
+ 1704  rmdir --rf Poc\'s/
+ 1705  rmdir -rf Poc\'s/
+ 1706  rmdir  Poc\'s -rf
+ 1707  cd Poc\'s/
+ 1708  ls
+ 1709  rm simple-web-app/
+ 1710  rmdir P
+ 1711  rmdir -rf simple-web-app/
+ 1712  cd ..
+ 1713  rmdir -rf simple-web-app/
+ 1714  ls
+ 1715  rmdir -rf Poc\'s
+ 1716  rmdir -r Poc\'s
+ 1717  ls
+ 1718  mkdir POC
+ 1719  cd POC/
+ 1720  ls
+ 1721  git clone https://github.com/KevinDeNotariis/simple-web-app
+ 1722  ls
+ 1723  cd simple-web-app/
+ 1724  chmod -R a+w .git
+ 1725  rm -rf .git
+ 1726  code .
+ 1727  git remote add origin https://sharmamayank829@bitbucket.org/mayankdevopslearning/simple-web-app.git
+ 1728  git remote remove 
+ 1729  git remote remove origin
+ 1730  git remote add origin https://sharmamayank829@bitbucket.org/mayankdevopslearning/simple-web-app.git
+ 1731  git push -u origin master
+ 1732  git push -u origin main
+ 1733  git remote remove origin 
+ 1734  echo "# Simple-Web-App" >> README.md
+ 1735  git init
+ 1736  git add README.md
+ 1737  git commit -m "first commit"
+ 1738  git branch -M main
+ 1739  git remote add origin git@github.com:Mayank9799/Simple-Web-App.git
+ 1740  git push -u origin main
+ 1741  clear
+ 1742  git remote set-url origin https://github.com/username/repository.git
+ 1743  git remote set-url origin https://github.com/Mayank9799
+ 1744  git clone git@github.com:Mayank9799/Simple-Web-App.git
+ 1745  git remote add origin git@github.com:Mayank9799/Simple-Web-App.git
+ 1746  git push -u origin main
+ 1747  git remote add origin https://sharmamayank829@bitbucket.org/mayankdevopslearning/simple-web-app.git
+ 1748  git push -u origin main
+ 1749  git remote remove origin 
+ 1750  git remote add origin https://sharmamayank829@bitbucket.org/mayankdevopslearning/simple-web-app.git
+ 1751  git push -u origin main
+ 1752  git remote add origin git@github.com:Mayank9799/Simple-Web-App.git
+ 1753  git push -u origin main
+ 1754  clear
+ 1755  git remote remove origin
+ 1756  git remote add origin git@github.com:Mayank9799/Simple-Web-App.git
+ 1757  git push -u origin main
+ 1758  git remote origin -v
+ 1759  git remote origin
+ 1760  git remote -v
+ 1761  clear
+ 1762  git remote add origin https://<TOKEN>@github.com/<USERNAME>/<REPONAME>.git
+ 1763  git remote add origin https://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@github.com/Mayank9799/Simple-Web-App.git
+ 1764  git remote remove origin
+ 1765  git push -u origin main
+ 1766  wget -O- https://apt.releases.hashicorp.com/gpg | sudo gpg --dearmor -o /usr/share/keyrings/hashicorp-archive-keyring.gpg
+ 1767  ssh -i "jenkins.pem" ec2-user@10.0.1.50
+ 1768  cd POC/
+ 1769  cd simple-web-app/
+ 1770  cd Terraform/
+ 1771  ssh -i "jenkins.pem" ec2-user@10.0.1.50
+ 1772  ssh -i "jenkins.key" ec2-user@10.0.1.50
+ 1773  clear
+ 1774  git status
+ 1775  git add .
+ 1776  git commit -m "first commit"
+ 1777  git push -u origin main
+ 1778  npm run watch
+ 1779  ls
+ 1780  cd server/
+ 1781  ls
+ 1782  npm run watch
+ 1783  git status
+ 1784  git add .
+ 1785  git commit -m "Added Docker File "
+ 1786  git push -u origin main
+ 1787  docker build -f Dockerfile.test -t hello:world .
+ 1788  docker container ls
+ 1789  docker exec -it hello_world /bin/sh
+ 1790  docker container ls
+ 1791  docker run -d -i --name hello_world hello:world
+ 1792  docker container ls
+ 1793  docker exec -it hello_world /bin/sh
+ 1794  docker build -t hello:prod .
+ 1795  docker run -d -i --name hello_prod -p 8000:8000 hello:prod 
+ 1796  docker build -t hello:prod .
+ 1797  git status
+ 1798  git add .
+ 1799  git status
+ 1800  git add .
+ 1801  git push -u origin main
+ 1802  docker build -t hello:prod .
+ 1803  docker containers ls
+ 1804  docker container ls
+ 1805  docker container stop hello_world 
+ 1806  docker container rm hello_world 
+ 1807  docker image rm hello:world 
+ 1808  git status
+ 1809  docker build -t hello:prod .
+ 1810  docker inspect  hello:prod .
+ 1811  docker inspect  hello:prod
+ 1812  docker ls
+ 1813  docker container ls
+ 1814  docker build -t hello:prod .
+ 1815  docker build -t hello:prod1 .
+ 1816  cd ..
+ 1817  docker build -t hello:prod1 .
+ 1818  docker images
+ 1819  docker build -t hello:prod .
+ 1820  docker run -d -i --name hello_prod -p 8000:8000 hello:prod
+ 1821  docker svc
+ 1822  docker src
+ 1823  docker services
+ 1824  docker svn
+ 1825  docker pods
+ 1826  docker networks
+ 1827  dcoker --help
+ 1828  docker --help
+ 1829  docker service
+ 1830  docker service ps
+ 1831  docker --help
+ 1832  docker exec -it hello_prod /bin/sh
+ 1833  docker container stop hello_prod
+ 1834  docker container rm hello_prod
+ 1835  docker image rm hello_prod
+ 1836  docker image rm hello:prod
+ 1837  git add .
+ 1838  git commit -a -m "Added Dockerfile for building test and staging/production images"
+ 1839  git push 
+ 1840  ls
+ 1841  clear
+ 1842  mkdir Terraform
+ 1843  clear
+ 1844  terraform --version
+ 1845  wget -O- https://apt.releases.hashicorp.com/gpg | sudo gpg --dearmor -o /usr/share/keyrings/hashicorp-archive-keyring.gpg
+ 1846  terraform --version
+ 1847  cd Terraform/
+ 1848  terraform init
+ 1849  touch output.tf
+ 1850  touch providers.tf
+ 1851  touch terraform.tfvars
+ 1852  variables.tf
+ 1853  touch variables.tf
+ 1854  terraform init
+ 1855  ls
+ 1856  mkdir application-server jenkins-server
+ 1857  cd application-server/
+ 1858  touch main.tf output.tf variables.tf 
+ 1859  cd ..
+ 1860  touch main.tf output.tf variables.tf 
+ 1861  rmdir -r -f  main.tf output.tf variables.tf 
+ 1862  rmdir  -f  main.tf output.tf variables.tf 
+ 1863  rmdir  main.tf output.tf variables.tf 
+ 1864  rm  main.tf output.tf variables.tf 
+ 1865  cd jenkins-server/
+ 1866  touch main.tf output.tf variables.tf 
+ 1867  cd ..
+ 1868  cd application-server/
+ 1869  ls
+ 1870  cd ..
+ 1871  ls
+ 1872  touch networking.tf
+ 1873  touch iam.tf
+ 1874  ls
+ 1875  touch application.tf jenkins.tf
+ 1876  ssh-keygen -t rsa -b 4096 -f simple_web_app
+ 1877  mv .\simple_web_app .\simple_web_app.key
+ 1878  clear
+ 1879  mv .\simple-web-app .\simple_web_app.key
+ 1880  cd ..
+ 1881  mv .\simple-web-app .\simple_web_app.key
+ 1882  cd Terraform/
+ 1883  mv .\simple-web-app .\simple_web_app.key
+ 1884  cd ..
+ 1885  cd simple-web-app/
+ 1886  cd Terraform/
+ 1887  mv .\simple_web_app .\simple_web_app.key
+ 1888  mv .\simple-web-app .\simple_web_app.key
+ 1889  clear
+ 1890  mv .\simple-web-app .\simple_web_app.key
+ 1891  mv .\simple_web_app .\simple_web_app.key
+ 1892  mv .\simple-web-app .\simple_web_app.key
+ 1893  clear
+ 1894  ssh-keygen -t rsa -b 4096 -f jenkins
+ 1895  mv .\jenkins .\jenkins.key
+ 1896  mv ./jenkins ./jenkins.key
+ 1897  mv .\jenkins.pub .\jenkins.pem
+ 1898  mv ./jenkins.pub ./jenkins.pem
+ 1899  touch key-pairs.tf
+ 1900  clear
+ 1901  terraform init
+ 1902  terraform plan
+ 1903  clear
+ 1904  terraform plan
+ 1905  clear
+ 1906  terraform plan
+ 1907  clear
+ 1908  terraform plan
+ 1909  terraform init
+ 1910  terraform fmt
+ 1911  terraform apply
+ 1912  clear
+ 1913  terraform apply
+ 1914  touch output.tf variables.tf
+ 1915  clear
+ 1916  terraform init
+ 1917  terraform plan
+ 1918  terraform init
+ 1919  terraform plan
+ 1920  clear
+ 1921  terraform plan
+ 1922  mv ./simple_web_app ./simple_web_app.key
+ 1923  mv ./simple_web_app.pub ./simple_web_app.pem
+ 1924  clear
+ 1925  terraform plan
+ 1926  terraform apply
+ 1927  ssh -i "jenkins.pem" ec2-user@10.0.1.50
+ 1928  ssh -i "jenkins.key" ec2-user@10.0.1.50
+ 1929  chmod 400 jenkins.key 
+ 1930  ssh -i "jenkins.key" ec2-user@10.0.1.50
+ 1931  terraform destroy
+ 1932  clear
+ 1933  terraform apply
+ 1934  ssh -i "jenkins.key" ec2-user@10.0.1.50
+ 1935  clear
+ 1936  ssh -i "jenkins.key" ec2-user@10.0.1.50
+ 1937  clear
+ 1938  chmod 400 jenkins.key 
+ 1939  ssh -i "jenkins.key" ec2-user@10.0.1.50
+ 1940  git status
+ 1941  git add .
+ 1942  git commit -a -m "Implemented First PArt of Terraform "
+ 1943  git push
+ 1944  git push -u origin main
+ 1945  git add .
+ 1946  git commit -a -m "Implemented First PArt of Terraform "
+ 1947  git push -u origin main
+ 1948  git status
+ 1949  git add .
+ 1950  git status
+ 1951  git add .
+ 1952  git status
+ 1953  clar
+ 1954  clear
+ 1955  git status
+ 1956  cd ..
+ 1957  git status
+ 1958  git add .
+ 1959  git status
+ 1960  git add .
+ 1961  git status
+ 1962  git commit -a -m "Implemented First PArt of Terraform "
+ 1963  git status
+ 1964  git push -u origin main
+ 1965  git status
+ 1966  git add .
+ 1967  git commit -a -m "Implemented First PArt of Terraform "
+ 1968  git status 
+ 1969  git push -u origin main
+ 1970  terraform destroy
+ 1971  cd Terraform/
+ 1972  terraform destroy
+ 1973  cd ..
+ 1974  git status
+ 1975  git push -u origin main
+ 1976  clear
+ 1977  terraform init
+ 1978  cd Terraform/
+ 1979  terraform init
+ 1980  terraform validate
+ 1981  terraform fmt
+ 1982  terraform plan
+ 1983  terraform apply
+ 1984  terraform apply --auto-approve
+ 1985  ssh -i "jenkins.key" ec2-user@10.0.1.50
+ 1986  sudo service ssh status
+ 1987  grep Port /etc/ssh/sshd_config
+ 1988  cd ..
+ 1989  grep Port /etc/ssh/sshd_config
+ 1990  sudo lsof -i -n -P | grep LISTEN
+ 1991  cd POC/
+ 1992  cd simple-web-app/
+ 1993  cd Terraform/
+ 1994  chmod 400 jenkins.key
+ 1995  ssh -i "jenkins.key" ec2-user@10.0.1.50
+ 1996  touch s3.tf
+ 1997  touch ecr.tf
+ 1998  git remote -v
+ 1999  git origin
+ 2000  git status
+ 2001  git remote
+ 2002  git remote -v
+ 2003  git push 
+ 2004  touch secrets.tf
+ 2005  touch random.tf
+ 2006  ssh-keygen -t rsa -b 4096 -f bitbucket
+ 2007  ssh-keygen -t rsa -b 4096 -f github
+ 2008* 
+ 2009  history > dekhlecmd.txt
