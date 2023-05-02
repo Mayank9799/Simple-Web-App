@@ -132,3 +132,4 @@ dist
 #Mochawesome
 mochawesome-report
 
+.terraform*
