@@ -11,4 +11,5 @@ module "application-server" {
   repository-url       = aws_ecr_repository.simple-web-app.repository_url
 
 
+
 }

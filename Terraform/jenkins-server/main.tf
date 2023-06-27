@@ -8,7 +8,7 @@ resource "aws_instance" "default" {
     network_interface_id = var.network-interface-id
   }
 
-  user_data =user_data = templatefile(
+  user_data = templatefile(
   "${path.module}/user_data.sh",
   {
     repository_url = var.repository-url,
