@@ -24,25 +24,6 @@ resource "aws_iam_role" "simple-web-app" {
 
   managed_policy_arns = [aws_iam_policy.ecr-access.arn]
 }
-/*
-resource "aws_iam_role" "simple-web-app" {
-  name = "simple-web-app"
-
-  assume_role_policy = jsonencode({
-    Version = "2012-10-17"
-    Statement = [
-      {
-        Action = "sts:AssumeRole"
-        Effect = "Allow"
-        Sid    = ""
-        Principal = {
-          Service = "ec2.amazonaws.com"
-        }
-      },
-    ]
-  })
-}
-*/
 
 # Jenkins
 
@@ -50,25 +31,6 @@ resource "aws_iam_instance_profile" "jenkins" {
   name = "jenkins"
   role = aws_iam_role.jenkins.name
 }
-/*
-resource "aws_iam_role" "jenkins" {
-  name = "jenkins"
-
-  assume_role_policy = jsonencode({
-    Version = "2012-10-17"
-    Statement = [
-      {
-        Action = "sts:AssumeRole"
-        Effect = "Allow"
-        Sid    = ""
-        Principal = {
-          Service = "ec2.amazonaws.com"
-        }
-      },
-    ]
-  })
-}
-*/
 
 resource "aws_iam_role" "jenkins" {
   name = "jenkins"
@@ -89,8 +51,8 @@ resource "aws_iam_role" "jenkins" {
 
   managed_policy_arns = [aws_iam_policy.ecr-access.arn,
     aws_iam_policy.s3-access.arn,
-    aws_iam_policy.ec2-access.arn,
-  aws_iam_policy.secrets-access.arn]
+     aws_iam_policy.ec2-access.arn]
+  # aws_iam_policy.secrets-access.arn]
 }
 # Policy: ECR access --> AmazonEC2ContainerRegistryPowerUser
 
@@ -146,6 +108,7 @@ resource "aws_iam_policy" "s3-access" {
 EOF
 }
 
+
 # Policy: Ec2 Reboot access
 
 resource "aws_iam_policy" "ec2-access" {
@@ -168,21 +131,22 @@ resource "aws_iam_policy" "ec2-access" {
 EOF
 }
 
-# Policy: Secrets Access
 
-resource "aws_iam_policy" "secrets-access" {
-  name = "secrets-access"
+# # Policy: Secrets Access
 
-  policy = <<EOF
-{
-    "Version": "2012-10-17",
-    "Statement": [
-        {
-            "Action": "secretsmanager:GetSecretValue",
-            "Effect": "Allow",
-            "Resource": "*"
-        }
-    ]
-}
-EOF
-}
+# resource "aws_iam_policy" "secrets-access" {
+#   name = "secrets-access"
+
+#   policy = <<EOF
+# {
+#     "Version": "2012-10-17",
+#     "Statement": [
+#         {
+#             "Action": "secretsmanager:GetSecretValue",
+#             "Effect": "Allow",
+#             "Resource": "*"
+#         }
+#     ]
+# }
+# EOF
+# }

@@ -1,6 +1,6 @@
 
-aws-access-key = "AKIAYOOWTZUGCL7G3FYL"
-aws-secret-key = "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"
+aws-access-key = "AKIAUPKWME4XVDURIRVC"
+aws-secret-key = "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"
 aws-region     = "us-east-1"
 admin-username = "Admin"
 admin-password = "Admin"
