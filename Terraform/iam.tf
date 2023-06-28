@@ -51,8 +51,8 @@ resource "aws_iam_role" "jenkins" {
 
   managed_policy_arns = [aws_iam_policy.ecr-access.arn,
     aws_iam_policy.s3-access.arn,
-  aws_iam_policy.ec2-access.arn]
-  # aws_iam_policy.secrets-access.arn]
+    aws_iam_policy.ec2-access.arn,
+  aws_iam_policy.secrets-access.arn]
 }
 # Policy: ECR access --> AmazonEC2ContainerRegistryPowerUser
 
@@ -131,22 +131,21 @@ resource "aws_iam_policy" "ec2-access" {
 EOF
 }
 
+# Policy: Secrets Access
 
-# # Policy: Secrets Access
+resource "aws_iam_policy" "secrets-access" {
+  name = "secrets-access"
 
-# resource "aws_iam_policy" "secrets-access" {
-#   name = "secrets-access"
-
-#   policy = <<EOF
-# {
-#     "Version": "2012-10-17",
-#     "Statement": [
-#         {
-#             "Action": "secretsmanager:GetSecretValue",
-#             "Effect": "Allow",
-#             "Resource": "*"
-#         }
-#     ]
-# }
-# EOF
-# }
+  policy = <<EOF
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Action": "secretsmanager:GetSecretValue",
+            "Effect": "Allow",
+            "Resource": "*"
+        }
+    ]
+}
+EOF
+}

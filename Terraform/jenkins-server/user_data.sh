@@ -1,9 +1,13 @@
 #! /bin/bash
 
 sudo yum update -y
+echo "Updating yum "
+
 
 # Install Git
 sudo yum install -y git
+echo "Installing GIT"
+
 
 # Install Jenkins
 
@@ -26,7 +30,6 @@ sudo systemctl start jenkins
 # sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io.key
 # sudo yum upgrade -y
 # sudo yum install -y jenkins java-1.8.0-openjdk-devel
-sudo systemctl daemon-reload
 
 
 

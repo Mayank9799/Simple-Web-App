@@ -9,7 +9,7 @@ variable "iam-instance-profile" {
 
 variable "instance-type" {
   type = string
-  default = "t3.medium"
+  default = "t2.medium"
 }
 
 variable "name" {

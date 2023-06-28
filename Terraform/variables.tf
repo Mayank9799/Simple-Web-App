@@ -37,3 +37,8 @@ variable "job-name" {
 variable "secrets" {
   type = map(string)
 }
+
+
+variable "ami-id" {
+  type = string
+}
